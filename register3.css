@@ -1,0 +1,22 @@
+p{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #261560
+}
+a:hover{
+    text-decoration: underline;
+}
+.form_container  .popup h2 button{
+    border: none;
+}
+.form_container  .popup h2 button:hover{
+   font-size: 20px;
+  
+}

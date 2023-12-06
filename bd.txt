@@ -1,0 +1,15 @@
+create table admin(
+id int auto_increment primry key,
+name varchar(100) not null,
+email varchar(100) not null,
+password varchar(100) not null);
+
+
+
+create table stagiaire(
+id int AUTO_INCREMENT primary key,
+    n_stg int not null,
+    name varchar(100) not null,
+    date_depot date not null,
+    duree int not null,
+    fillere varchar(100) not null);

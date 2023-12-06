@@ -1,0 +1,19 @@
+.flex.flex-1.flex-col.md:flex-row.lg:flex-row.mx-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.flex-1.mx-auo {
+  margin: 0 auto;
+}
+
+.md:w-14 {
+  width: 25%;
+ 
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
